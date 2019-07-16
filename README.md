@@ -12,3 +12,6 @@ $ pip install -r requirements.txt
 $ python main.py 
 [0] connecting through Python iLO REST v2.5.0 client fails when logging @ https://stackoverflow.com/questions/56938784/connecting-through-python-ilo-rest-v2-5-0-client-fails-when-logging
 ```
+
+# Reference
+[Stack Exchange API Hello World Example](https://stackapps.com/questions/2/api-hello-world-code)
